@@ -12,9 +12,7 @@ int main() {
     enter_string(str);
     scanf("%c", &c); //输入要求删除的字符
     delete_string(str, c);
-
     print_string(str);
-
     system("pause");
 
     return 0;
