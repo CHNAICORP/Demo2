@@ -14,6 +14,7 @@ int main() {
     delete_string(str, c);
 
     print_string(str);
+
     system("pause");
 
     return 0;
