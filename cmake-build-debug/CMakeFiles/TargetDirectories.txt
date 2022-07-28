@@ -1,0 +1,6 @@
+D:/WS/BaiduSyncdisk/IDE/CLion/C/Demo2/cmake-build-debug/CMakeFiles/Demo2.dir
+D:/WS/BaiduSyncdisk/IDE/CLion/C/Demo2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/WS/BaiduSyncdisk/IDE/CLion/C/Demo2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/WS/BaiduSyncdisk/IDE/CLion/C/Demo2/cmake-build-debug/TestC/CMakeFiles/TestC.dir
+D:/WS/BaiduSyncdisk/IDE/CLion/C/Demo2/cmake-build-debug/TestC/CMakeFiles/edit_cache.dir
+D:/WS/BaiduSyncdisk/IDE/CLion/C/Demo2/cmake-build-debug/TestC/CMakeFiles/rebuild_cache.dir

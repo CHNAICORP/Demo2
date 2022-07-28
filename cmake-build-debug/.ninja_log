@@ -1,0 +1,16 @@
+# ninja log v5
+2	71	6807017357393744	CMakeFiles/Demo2.dir/main.c.obj	c44295dcb6ead1dd
+4	56	6807017357214222	CMakeFiles/Demo2.dir/file2.c.obj	6fa0007dc7fb28fd
+2	50	6807013167463252	TestC/CMakeFiles/TestC.dir/file2.c.obj	a97098d3b71e1eff
+0	56	6807013167523091	TestC/CMakeFiles/TestC.dir/file1.c.obj	450cfe1929343e8b
+4	58	6807013167553009	TestC/CMakeFiles/TestC.dir/file3.c.obj	bf5d549a0798c466
+6	64	6807017357313955	CMakeFiles/Demo2.dir/file1.c.obj	90cf9f67ed803b17
+8	67	6807017357343876	CMakeFiles/Demo2.dir/file3.c.obj	343f17b9d5f3957c
+71	153	6807017358183479	Demo2.exe	809700410615532d
+5	58	6807036393189669	CMakeFiles/Demo2.dir/TestC/file2.c.obj	2ed44bf55527ff9c
+2	66	6807036393264594	CMakeFiles/Demo2.dir/TestC/file1.c.obj	3219887bbd7248bc
+9	71	6807036393314461	CMakeFiles/Demo2.dir/TestC/file3.c.obj	1be056a0ce905e36
+7	77	6807036393384292	CMakeFiles/Demo2.dir/main.c.obj	c44295dcb6ead1dd
+1	90	6807036497964542	Demo2.exe	863c6fc66d46a922
+2	54	6807036831742421	CMakeFiles/Demo2.dir/main.c.obj	c44295dcb6ead1dd
+54	136	6807036832530967	Demo2.exe	863c6fc66d46a922
